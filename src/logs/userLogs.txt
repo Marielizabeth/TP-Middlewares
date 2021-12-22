@@ -1,0 +1,9 @@
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /Login
+El usuario ingreso a la ruta: /Register
+El usuario ingreso a la ruta: /Products
+El usuario ingreso a la ruta: /Detail
+El usuario ingreso a la ruta: /Admin
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /Admin
+El usuario ingreso a la ruta: /Admin?user=Vim
